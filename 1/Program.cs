@@ -16,3 +16,4 @@ else
 {
      Console.WriteLine($"Число {number2} больше, чем {number1}");
 }
+// готово
